@@ -1,0 +1,11 @@
+.carousel{
+    /* position: relative; */
+}
+
+.carousel-item{
+    height: 89vh;
+}
+.carousel-item img{
+    background-position: center;
+    background-size: cover;
+}
